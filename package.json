@@ -2,7 +2,7 @@
   "name": "noctokai-theme",
   "displayName": "Noctokai",
   "description": "A low-brightness dark theme inspired by Monokai and Dracula. Designed for long coding sessions with reduced eye strain.",
-  "version": "2.0.0",
+  "version": "2.0.4",
   "publisher": "farigab",
   "license": "MIT",
   "icon": "media/icon.png",
