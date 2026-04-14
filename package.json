@@ -1,0 +1,44 @@
+{
+  "name": "noctokai-theme",
+  "displayName": "Noctokai",
+  "description": "A low-brightness dark theme inspired by Monokai and Dracula. Designed for long coding sessions with reduced eye strain.",
+  "version": "1.0.1",
+  "publisher": "farigab",
+  "license": "MIT",
+  "icon": "noctokai.png",
+  "galleryBanner": {
+    "color": "#111418",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "theme",
+    "monokai",
+    "dracula",
+    "low brightness",
+    "developer",
+    "nocturnal"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Noctokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/noctokai.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/farigab/noctokai-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/farigab/noctokai-theme/issues"
+  }
+}
