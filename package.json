@@ -2,7 +2,14 @@
   "name": "noctokai-theme",
   "displayName": "Noctokai",
   "description": "A low-brightness dark theme inspired by Monokai and Dracula. Designed for long coding sessions with reduced eye strain.",
-  "version": "2.0.5",
+  "version": "2.0.6",
+  "scripts": {
+    "build": "vsce package",
+    "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.0.0"
+  },
   "publisher": "farigab",
   "license": "MIT",
   "icon": "media/icon.png",
@@ -11,7 +18,7 @@
     "theme": "dark"
   },
   "engines": {
-    "vscode": "^3.8.1"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Themes"
@@ -41,6 +48,11 @@
         "label": "Noctokai Darkest Purple",
         "uiTheme": "vs-dark",
         "path": "./themes/noctokai-darkest-purple.json"
+      },
+      {
+        "label": "Noctokai Void",
+        "uiTheme": "vs-dark",
+        "path": "./themes/noctokai-void.json"
       }
     ]
   },
