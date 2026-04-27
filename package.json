@@ -53,6 +53,11 @@
         "label": "Noctokai Void",
         "uiTheme": "vs-dark",
         "path": "./themes/noctokai-void.json"
+      },
+      {
+        "label": "Noctokai Ocean Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/noctokai-ocean-night.json"
       }
     ]
   },
