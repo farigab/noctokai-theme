@@ -63,6 +63,11 @@
         "label": "Noctokai Slate Mist",
         "uiTheme": "vs-dark",
         "path": "./themes/noctokai-slate-mist.json"
+      },
+      {
+        "label": "Noctokai Aurora Void",
+        "uiTheme": "vs-dark",
+        "path": "./themes/noctokai-aurora-void.json"
       }
     ]
   },
