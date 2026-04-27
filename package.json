@@ -68,6 +68,11 @@
         "label": "Noctokai Aurora Void",
         "uiTheme": "vs-dark",
         "path": "./themes/noctokai-aurora-void.json"
+      },
+      {
+        "label": "Noctokai Dusk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/noctokai-dusk.json"
       }
     ]
   },
