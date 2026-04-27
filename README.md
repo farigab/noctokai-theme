@@ -10,6 +10,8 @@ A low-brightness dark theme blending **Monokai Night** and **Dracula** color pal
 
 ![Noctokai Darkest Purple](media/noctokai-darkest-purple.png)
 
+![Noctokai Void](media/noctokai-void.png)
+
 ## Variants
 
 | Variant | Description |
@@ -17,6 +19,7 @@ A low-brightness dark theme blending **Monokai Night** and **Dracula** color pal
 | **Noctokai** | Dark blue-grey UI with muted Monokai syntax colors |
 | **Noctokai Purple** | Deep purple UI with vibrant Monokai-inspired syntax |
 | **Noctokai Darkest Purple** | Near-black purple UI — the darkest variant |
+| **Noctokai Void** | Ultra-dark near-black UI with ultra-low brightness and subtle teal/cyan accents — highest contrast for distraction-free, low-light coding |
 
 ## Features
 
@@ -59,3 +62,16 @@ A low-brightness dark theme blending **Monokai Night** and **Dracula** color pal
 | Types / Support | `#58C8E8` |
 | Comments | `#585580` |
 | Modified/Untracked files | `#8B6CF6` |
+
+### Noctokai Void
+
+| Element | Color |
+| --- | --- |
+| Background | `#07070A` |
+| Keywords | `#D16BA5` |
+| Functions / Classes | `#6DD890` |
+| Strings | `#E8C850` |
+| Constants / Numbers | `#B088F0` |
+| Types / Support | `#58C8E8` |
+| Comments | `#4A4A56` |
+| Modified/Untracked files | `#7A5FD0` |
