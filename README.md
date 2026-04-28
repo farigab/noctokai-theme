@@ -20,6 +20,12 @@ A low-brightness dark theme blending **Monokai Night** and **Dracula** color pal
 | **Noctokai Purple** | Deep purple UI with vibrant Monokai-inspired syntax |
 | **Noctokai Darkest Purple** | Near-black purple UI — the darkest variant |
 | **Noctokai Void** | Ultra-dark near-black UI with ultra-low brightness and subtle teal/cyan accents — highest contrast for distraction-free, low-light coding |
+| **Noctokai Aurora Void** | Void-style ultra-dark UI with aurora-inspired accent colors |
+| **Noctokai Dusk** | Balanced dark theme optimized for IPS monitors — enhanced color fidelity and subtle contrast |
+| **Noctokai Ocean Night** | Deep oceanic blue UI with teal and sea-glass accents |
+| **Noctokai Slate Mist** | Soft, muted slate-toned UI with gentle contrast |
+
+Note: `NOCTOKAI DUSK` was designed specifically for IPS monitors (optimized for displays with higher color fidelity).
 
 ## Features
 
